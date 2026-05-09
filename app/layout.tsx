@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Cafe Dulcela',
+  title: 'Cafe Toscano',
   description: 'A memorable cafe experience',
   generator: 'js',
   icons: {
