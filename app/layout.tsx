@@ -7,7 +7,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Cafe Toscano',
+  title: 'Cafe Dulcela',
   description: 'A memorable cafe experience',
   generator: 'js',
   icons: {
@@ -16,10 +16,10 @@ export const metadata: Metadata = {
         url: '/icon-light-32x32.png',
         media: '(prefers-color-scheme: light)',
       },
-      {
-        url: '/icon-dark-32x32.png',
-        media: '(prefers-color-scheme: dark)',
-      },
+      // {
+      //   url: '/icon-dark-32x32.png',
+      //   media: '(prefers-color-scheme: dark)',
+      // },
       {
         url: '/icon.svg',
         type: 'image/svg+xml',

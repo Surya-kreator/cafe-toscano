@@ -42,7 +42,7 @@ export default function Header() {
               className="text-2xl font-serif font-bold text-chart-4"
               whileHover={{ scale: 1.05 }}
             >
-              Cafe Toscano
+              Cafe Dulcela
             </motion.div>
 
             {/* Desktop Navigation */}
